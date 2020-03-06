@@ -19,6 +19,4 @@ class App < Sinatra::Base
     session["item"] = params["item"]
   end
 
-
-
 end
